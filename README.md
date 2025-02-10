@@ -1,4 +1,4 @@
-# Tutorial-10-Embedded-Systems-and-Dashboard
+# Tutorial-9.2-Embedded-Systems-and-Dashboard
 การสร้าง Dashboard ด้วยตนเองในรูปแบบ web application ใช้ทักษะในการพัฒนาเว็บไซต์
 
 
